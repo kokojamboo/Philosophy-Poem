@@ -1,7 +1,8 @@
 # Philosophy-Poem
 
 
-![phi](https://user-images.githubusercontent.com/58915079/164300713-049ae1ba-ad5a-4a80-8b86-e7789c10e2a5.jpg)
+![tree of life](https://user-images.githubusercontent.com/58915079/164301413-ea04534b-f72e-40b9-8642-41e39df7e264.jpg)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
