@@ -1,7 +1,8 @@
 # Philosophy-Poem
 
 
-![tree of life](https://user-images.githubusercontent.com/58915079/164301413-ea04534b-f72e-40b9-8642-41e39df7e264.jpg)
+![TreeofLife](https://user-images.githubusercontent.com/58915079/164301674-bcf84df9-5a9a-4d34-890d-eedb6e44cefa.png)
+
 
 
 __________________________________________________________________________________________________________________________________________________________
