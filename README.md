@@ -1,4 +1,4 @@
-# Hello-Github
+# Newton
 
 Seht die Sterne, die da lehren,
 wie man soll den Meister ehren. 
