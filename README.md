@@ -1,7 +1,7 @@
 # Philosophy-Poem
 
+![Mandelbrotstree](https://user-images.githubusercontent.com/58915079/164617190-870f5ab3-a2ba-4b4f-b715-590217f924e7.png)
 
-![TreeofLife](https://user-images.githubusercontent.com/58915079/164301674-bcf84df9-5a9a-4d34-890d-eedb6e44cefa.png)
 
 
 
